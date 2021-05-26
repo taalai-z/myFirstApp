@@ -63,3 +63,19 @@ class ViewController: UIViewController {
 
 }
 
+
+
+/*
+
+git init
+ ls - название и количество файлов в папке
+ git status
+ git add . - добавление всех изменений в локальный гит
+ git commit -m "First push" - привязка наших изменений к гиту
+ git status
+ git push -u origin main - первичный пуш на гит репозиторий
+  git push
+ 
+ git pull - получение нашего проекта с сервера
+ 
+ */
